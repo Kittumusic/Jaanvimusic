@@ -71,10 +71,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.two.join_chat("DIL_KI_BATE_o")
-                await self.two.join_chat("All_music_sport")
-                await self.two.join_chat("Ignore_Bot_abut")
-                await self.two.join_chat("IGNORE_ABUT")
+                await self.two.join_chat("Cc_Heroku")
+                await self.two.join_chat("CHATTING_ZONE")
+                await self.two.join_chat("RajaProfessor")
+                await self.two.join_chat("ProfessorRaja")
 
             except:
                 pass
@@ -101,10 +101,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DIL_KI_BATE_o")
-                await self.two.join_chat("All_music_sport")
-                await self.two.join_chat("Ignore_Bot_abut")
-                await self.two.join_chat("IGNORE_ABUT")
+                await self.two.join_chat("Cc_Heroku")
+                await self.two.join_chat("CHATTING_ZONE")
+                await self.two.join_chat("RajaProfessor")
+                await self.two.join_chat("ProfessorRaja")
             except:
                 pass
             assistants.append(2)
@@ -125,10 +125,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.two.join_chat("DIL_KI_BATE_o")
-                await self.two.join_chat("All_music_sport")
-                await self.two.join_chat("Ignore_Bot_abut")
-                await self.two.join_chat("IGNORE_ABUT")
+                await self.two.join_chat("Cc_Heroku")
+                await self.two.join_chat("CHATTING_ZONE")
+                await self.two.join_chat("RajaProfessor")
+                await self.two.join_chat("ProfessorRaja")
             except:
                 pass
             assistants.append(3)
@@ -148,10 +148,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.two.join_chat("DIL_KI_BATE_o")
-                await self.two.join_chat("All_music_sport")
-                await self.two.join_chat("Ignore_Bot_abut")
-                await self.two.join_chat("IGNORE_ABUT")
+                await self.two.join_chat("Cc_Heroku")
+                await self.two.join_chat("CHATTING_ZONE")
+                await self.two.join_chat("RajaProfessor")
+                await self.two.join_chat("ProfessorRaja")
             except:
                 pass
             assistants.append(4)
@@ -171,10 +171,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.two.join_chat("DIL_KI_BATE_o")
-                await self.two.join_chat("All_music_sport")
-                await self.two.join_chat("Ignore_Bot_abut")
-                await self.two.join_chat("IGNORE_ABUT")
+                await self.two.join_chat("Cc_Heroku")
+                await self.two.join_chat("CHATTING_ZONE")
+                await self.two.join_chat("RajaProfessor")
+                await self.two.join_chat("ProfessorRaja")
             except:
                 pass
             assistants.append(5)
